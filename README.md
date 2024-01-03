@@ -23,6 +23,11 @@ Este proyecto se centra en crear un sitio web responsive para una galería de ar
 
 ---
 
+<div align="center">
+  <img src="ModernArtGallery.png" alt="vista previa" width="1000px" height="500px"/>
+</div>
+
+
 ## Cómo Usar 🛠️
 
 1. Clona este repositorio: `git clone https://github.com/Ferran226/ResponsiveProject02.git`
