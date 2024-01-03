@@ -38,10 +38,13 @@ Este proyecto se centra en crear un sitio web responsive para una galería de ar
 
 ## Trabajo Freelance 💼
 
+---
+
 <div align="center">
   <img src="desde0.gif" alt="vista previa" width="55%"/>
 </div>
 
+---
 
 Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en 
 <br>
