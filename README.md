@@ -27,6 +27,7 @@ Este proyecto se centra en crear un sitio web responsive para una galería de ar
   <img src="ModernArtGallery.png" alt="vista previa" width="1000px" height="500px"/>
 </div>
 
+---
 
 ## Cómo Usar 🛠️
 
